@@ -1,4 +1,4 @@
-# 🤖 AI Agent Automation using n8n
+#  AI Agent Automation
 
 This project showcases an **AI-powered conversational agent** built using **n8n**, designed to automate intelligent responses to user queries by combining a large language model, memory, and utility tools within a visual workflow.
 
@@ -6,7 +6,7 @@ The AI Agent listens for incoming chat messages, processes them using an integra
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The AI Agent workflow is triggered whenever a chat message is received. It routes the message to an AI Agent node that orchestrates:
 
@@ -19,19 +19,19 @@ This project demonstrates how **low-code automation** can be combined with **AI 
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
-- **🔁 n8n** – Workflow automation and orchestration platform  
-- **🤖 AI Agent Node** – Central intelligence layer for reasoning and responses  
-- **🧠 Groq Chat Model** – Large Language Model for fast and accurate responses  
-- **💾 Simple Memory** – Maintains conversation context across messages  
-- **🧮 Calculator Tool** – Handles numeric computations on demand  
-- **⏰ Date & Time Tool** – Provides real-time date and time information  
-- **💬 Chat Trigger** – Activates the workflow upon receiving user messages  
+- **n8n** – Workflow automation and orchestration platform  
+- **AI Agent Node** – Central intelligence layer for reasoning and responses  
+- **Groq Chat Model** – Large Language Model for fast and accurate responses  
+- **Simple Memory** – Maintains conversation context across messages  
+- **Calculator Tool** – Handles numeric computations on demand  
+- **Date & Time Tool** – Provides real-time date and time information  
+- **Chat Trigger** – Activates the workflow upon receiving user messages  
 
 ---
 
-## 🔄 Workflow Architecture
+##  Workflow Architecture
 
 1. **Chat Message Trigger**  
    - Listens for incoming user messages  
@@ -50,26 +50,26 @@ This project demonstrates how **low-code automation** can be combined with **AI 
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🧩 AI Agent Workflow (n8n Editor)
-![AI Agent Workflow](./screenshots/Screenshot%202025-12-02%20at%2010.22.27%20AM.png)
+###  AI Agent Workflow 
+![AI Agent Workflow](https://github.com/PrasadDarandale/AI-Agent/blob/main/ai-agent-workflow.png)
 
-### 💬 Chat Interaction with AI Agent
-![Chat Interaction](./screenshots/Screenshot%202025-12-02%20at%2010.22.45%20AM.png)
+###  Chat Interaction with AI Agent
+![Chat Interaction](https://github.com/PrasadDarandale/AI-Agent/blob/main/ai-agent-chat.png)
 
-### ⚙️ AI Agent Execution & Logs
-![Execution Logs](./screenshots/Screenshot%202025-12-02%20at%2010.23.39%20AM.png)
+###  AI Agent Execution & Logs
+![Execution Logs](https://github.com/PrasadDarandale/AI-Agent/blob/main/ai-agent-logs.png)
 
 ---
 
-## 💼 Business Problem
+##  Business Problem
 
 Building AI-powered assistants often requires complex backend logic and infrastructure. This project addresses the need for a **simpler, low-code approach** to creating intelligent chat agents that can reason, remember, and act using external tools.
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 The goal of this project is to demonstrate how **AI agents can be built visually using n8n**, enabling developers and analysts to:
 
@@ -79,7 +79,7 @@ The goal of this project is to demonstrate how **AI agents can be built visually
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - Context-aware conversations using memory  
 - Tool-augmented AI responses  
@@ -89,7 +89,7 @@ The goal of this project is to demonstrate how **AI agents can be built visually
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Integration with external APIs (CRM, ticketing systems, databases)  
 - Multi-user session handling  
@@ -98,11 +98,11 @@ The goal of this project is to demonstrate how **AI agents can be built visually
 
 ---
 
-## 👤 Author
+## Author
 
 **Prasad Darandale**  
 AI Automation | Data Analytics | Workflow Engineering  
 
 ---
 
-⭐ If you found this project useful, consider starring the repository!
+ If you found this project useful, consider starring the repository!
