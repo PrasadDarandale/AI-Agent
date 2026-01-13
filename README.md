@@ -101,7 +101,7 @@ The goal of this project is to demonstrate how **AI agents can be built visually
 ## Author
 
 **Prasad Darandale**  
-AI Automation | Data Analytics | Workflow Engineering  
+Data Analytics  
 
 ---
 
